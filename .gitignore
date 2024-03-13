@@ -1,0 +1,9 @@
+node_modules
+.env
+build
+coverage
+.vscode
+dist
+buildcoverage
+.DS_Store
+pnpm-lock.yaml
