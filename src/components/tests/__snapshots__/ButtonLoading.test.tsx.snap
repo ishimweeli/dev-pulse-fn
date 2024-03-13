@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Loading Renders the button 1`] = `
+<div
+  className="flex w-fit py-1 px-3 bg-primary justify-center font-bold md"
+>
+  <div
+    className="flex w-full gap-2 justify-center items-center"
+  >
+    <div
+      className="loader"
+    />
+    <button
+      className=" text-white font-bold"
+      disabled={true}
+    >
+      Processing...
+    </button>
+  </div>
+</div>
+`;
