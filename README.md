@@ -20,7 +20,7 @@ To run this project on your local machine make sure that all the following are c
 Use the following commands to get started with the project
 
 ```js
-git clone https://github.com/atlp-rwanda/atlp-pulse-fn
+
 cd atlp-pulse-fn
 npm install
 npm run dev
